@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{558C7B19-243D-4576-961B-210C0A8205E2}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="StringCalcTests/UnitTest1.cs">
+    <Files>
+      <File FileName="StringCalcKata/Program.cs" Line="33" Column="18" />
+      <File FileName="StringCalcTests/UnitTest1.cs" Line="6" Column="26" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="StringCalcKata" expanded="True">
+            <Node name="StringCalcKata" expanded="True" />
+            <Node name="StringCalcTests" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="UnitTest1.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="StringCalcKata" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.StringCalcKata PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
